@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/17H51A0572/MyResume/issues"
   },
-  "homepage": "https://github.com/17H51A0572/MyResume#readme"
+  "homepage": "https://github.com/17H51A0572/MyResume#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
